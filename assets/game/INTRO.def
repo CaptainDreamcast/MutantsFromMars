@@ -1,0 +1,40 @@
+[Header]
+Sprites = game/INTRO.sff
+
+[STORYSTART]
+
+
+[Image 1]
+Group = 1
+Item = 0
+
+[Text 1]
+Speaker = " "
+Text = "Today, we move towards the future, it is the space year 2025! Humanity has conquered even the farthest reaches of space! A far-off planet called... Mars!"
+
+[Image 1]
+Group = 1
+Item = 1
+
+[Text 1]
+Speaker = " "
+Text = "However, contact broke off with the Mars colony a month ago! And once contact was restored, Earth made a horrific discovery!"
+
+[Image 1]
+Group = 1
+Item = 2
+
+[Text 1]
+Speaker = " "
+Text = "Everyone on Mars grew a third arm!"
+
+[Image 1]
+Group = 1
+Item = 3
+
+[Text 1]
+Speaker = " "
+Text = "Obviously three-armed and two-armed people can NEVER live in peace together, so it came... to all out war with... THE MUTANTS FROM MARS!"
+
+
+[Game]

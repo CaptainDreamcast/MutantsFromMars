@@ -1,0 +1,39 @@
+[Header]
+Sprites = game/OUTRO.sff
+
+[STORYSTART]
+
+
+[Image 1]
+Group = 1
+Item = 0
+
+[Text 1]
+Speaker = " "
+Text = "The mutants from Mars were defeated!"
+
+[Image 1]
+Group = 1
+Item = 1
+
+[Text 1]
+Speaker = " "
+Text = "Due to an unbelievable coincidence, your shots perfectly severed all the mutants' third arms!"
+
+[Image 1]
+Group = 1
+Item = 2
+
+[Text 1]
+Speaker = " "
+Text = "Now everyone can live in peace... while dark ominous shadows with four arms loom looking over Earth from Venus...!"
+
+[Image 1]
+anim = 3
+
+[Text 1]
+Speaker = " "
+Text = "Thanks for playing! The end!"
+
+
+[Title]
